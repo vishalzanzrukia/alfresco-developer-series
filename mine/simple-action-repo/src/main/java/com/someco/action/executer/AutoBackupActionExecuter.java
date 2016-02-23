@@ -4,7 +4,6 @@ import java.util.List;
 
 import org.alfresco.repo.action.ParameterDefinitionImpl;
 import org.alfresco.repo.action.executer.ActionExecuterAbstractBase;
-import org.alfresco.repo.node.NodeServicePolicies;
 import org.alfresco.service.cmr.action.Action;
 import org.alfresco.service.cmr.action.ParameterDefinition;
 import org.alfresco.service.cmr.dictionary.DataTypeDefinition;
@@ -43,8 +42,6 @@ public class AutoBackupActionExecuter extends ActionExecuterAbstractBase {
      * @see org.alfresco.repo.action.executer.ActionExecuter#execute(org.alfresco.repo.ref.NodeRef, org.alfresco.repo.ref.NodeRef)
      */
     public void executeImpl(Action ruleAction, NodeRef actionedUponNodeRef) {
-    	
-    	NodeServicePolicies
     	
     	logger.info("Enter -> MoveReplacedActionExecuter.executeImpl");
     	if(getIsActive()){
