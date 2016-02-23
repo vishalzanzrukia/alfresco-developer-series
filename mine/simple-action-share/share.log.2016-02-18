@@ -1,0 +1,15 @@
+2016-02-18 18:55:51,526 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2016-02-18 18:55:51,530 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2016-02-18 18:55:51,532 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2016-02-18 18:55:51,534 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2016-02-18 18:55:54,092 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 368 Web Scripts (+0 failed), 382 URLs
+2016-02-18 18:55:54,092 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2016-02-18 18:55:54,093 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2016-02-18 18:55:54,280 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 2728.1926ms)
+2016-02-18 18:55:54,283 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2016-02-18 18:55:54,285 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2016-02-18 18:56:11,562 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2016-02-18 18:56:13,943 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-1] Successfully retrieved IMAP server status from Alfresco: disabled
+2016-02-18 18:56:16,230 INFO  [org.alfresco.web.scripts.QuickShareStatus] [http-bio-8081-exec-1] Successfully retrieved quick share information from Alfresco.
+2016-02-18 18:56:20,861 INFO  [org.alfresco.web.scripts.MimetypesQuery] [http-bio-8081-exec-10] Successfully retrieved mimetypes information from Alfresco.
+2016-02-18 18:57:18,874 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-10] Successfully retrieved Data Dictionary from Alfresco.
